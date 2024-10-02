@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 # temperature-conversion
 =======
-A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
->>>>>>> bf8f80b (first commit)
+Aplikasi sederhana berbasis command-line untuk melakukan konversi suhu antara Celsius, Fahrenheit, Reamur, dan Kelvin.
